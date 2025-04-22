@@ -10,6 +10,6 @@
 - Clean and minimal UI
 - Simple to extend and customize
 
-  ## 🛠️ Development
-  - Built using PHP and JavaScript (jQuery).
-  - Frontend styled with HTML and CSS.
+## 🛠️ Development
+- Built using PHP and JavaScript (jQuery).
+- Frontend styled with HTML and CSS.
